@@ -1,13 +1,15 @@
 # telegraf-snmp-mikrotik
-This repo contains Telegraf snmp plugin configuration for Router OS (mikrotik) devices as I couldn't find any good configuration online.
+
+This repo contains Telegraf SNMP plugin configuration for Router OS (mikrotik) devices as I couldn't find any good configuration online.
 
 ## Usage
 
-The telegraf.conf file contains only relevant part, you probably want to *add* it to your current telegraf configuration.
+The configuration files contain only relevant parts, you probably want to *add* it to your current telegraf configuration.
 
 The configuration was tested only with handful of mikrotik models like:
  - 2011UiAS-2HnD
  - 750GL
+ - CCR1009-8G-1S-1S+
 
 Not all features are supported.
 
@@ -17,4 +19,4 @@ Create multiple model-specific versions, where only supported metrics are collec
 
 ## Contributing
 
-Contributions are wellcome, please create pull request.
+Contributions are welcome, please create a pull request.
