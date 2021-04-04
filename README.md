@@ -10,6 +10,7 @@ The configuration was tested only with handful of mikrotik models like:
  - 2011UiAS-2HnD
  - 750GL
  - CCR1009-8G-1S-1S+
+ - RB760iGS (Mikrotik hEX S)
 
 Not all features are supported.
 
